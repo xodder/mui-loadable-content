@@ -20,7 +20,7 @@
   "homepage": "https://github.com/xodder/mui-loadable-content#readme",
   "scripts": {
     "prepublish": "tsc",
-    "prepare": "npx tsc",
+    "install": "npx tsc",
     "lint": "eslint --ext .js,.ts,.tsx"
   },
   "dependencies": {},
